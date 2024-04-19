@@ -2,6 +2,7 @@
 
 * git
     => jadi
+    new changer
 
 
 1- read array section in w3schools.com 
