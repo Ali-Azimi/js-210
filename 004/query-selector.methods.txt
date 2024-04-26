@@ -1,0 +1,11 @@
+
+
+
+documnt
+select dom nodes
+    querySlector()
+    getElementById()
+
+    querySelectorAll()
+    getElementsByClassName()
+    getElementsByTagName()

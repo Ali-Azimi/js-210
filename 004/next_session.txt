@@ -1,0 +1,35 @@
+
+
+
+- let/const vs var 
+
+- whoisting
+
+- filterStudentFunction => 
+    1- dynamic
+    2- case insensitive
+
+
+-   filter
+    find
+    map
+
+
+-   ./images/ghare-klisa.jpg  => ghare-klisa
+    ./images/azadi.jpg => azadi
+
+
+
+- color boxes
+    - get random background only once
+    - game over on every box colored
+
+
+- todoApp
+
+
+- https://www.codewars.com/kata/52449b062fb80683ec000024
+  https://www.codewars.com/kata/5dd462a573ee6d0014ce715b
+  https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
+  https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b
+  https://www.codewars.com/kata/5a34b80155519e1a00000009
