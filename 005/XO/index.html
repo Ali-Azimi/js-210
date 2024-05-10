@@ -1,0 +1,24 @@
+<script>
+    let currentPlayer = "X";
+
+
+    function play() {
+        document.body.textContent = currentPlayer;
+        // if(currentPlayer === "X")
+        //     currentPlayer = "O"
+        // else 
+        //     currentPlayer = "X"
+        currentPlayer = (currentPlayer === "X") ? "O" : "X"
+    }
+</script>
+
+
+<style>
+    body {
+        font-size: 8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+</style>

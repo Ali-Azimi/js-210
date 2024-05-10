@@ -1,0 +1,14 @@
+
+
+
+
+- remove interval
+
+- memory game 
+    => debug two problem
+    => add two features 
+        timer
+        move count
+    => a modal for game over
+    
+- shining arrow keys
