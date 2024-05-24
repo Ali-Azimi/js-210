@@ -1,0 +1,16 @@
+
+
+
+
+- library app
+
+- array list movement
+
+- DOM Traversing
+
+- eventListener third parameter
+    capture phase
+    bubble
+    propagation
+
+

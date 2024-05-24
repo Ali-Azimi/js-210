@@ -1,0 +1,23 @@
+
+
+
+body {
+    background-color: #444;
+    color: white;
+    width: 70%;
+    margin: auto;
+    font-family: helvetica;
+}
+
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    border: 1px solid;
+    padding: 1rem;
+    margin: 2rem;
+    border-radius: 4px;
+}

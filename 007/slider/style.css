@@ -1,0 +1,51 @@
+
+
+
+body {
+    margin: 0;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    font-family: helvetica;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transition: .5s;
+}
+
+
+section:nth-child(1) {
+    background-color: darkcyan;
+    z-index: 5;
+}
+
+section:nth-child(2) {
+    background-color: darkgoldenrod;
+    z-index: 4;
+}
+
+section:nth-child(3) {
+    background-color: darkgreen;
+    z-index: 3 ;
+}
+
+section:nth-child(4) {
+    background-color: darkmagenta;
+    z-index: 2;
+}
+
+section:nth-child(5) {
+    background-color: darkolivegreen;
+    z-index: 1;
+}
+
+
+.up {
+    transform: translateY(-100%);
+}
