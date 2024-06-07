@@ -1,0 +1,32 @@
+
+
+
+.question {
+    background-color: #ddd;
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+
+.option {
+    border: 1px solid;
+    color: #0072bc;
+    padding: 1rem 2rem;
+    outline: none;
+    cursor: pointer;
+    margin: 1rem;
+    border-radius: 4px;
+    transition: .5s;
+}
+
+.options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.option:hover {
+    background-color: #0072bc;
+    color: white;
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>regex validation</title>
+    <script src="app.js" defer></script>
+    <style>
+        .error {
+            border: 3px solid red;
+            outline: none;
+        }
+
+        .success {
+            border: 3px solid green;
+            outline: none;
+        }
+
+        #error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Regex Validation</h1>
+    <input type="text" placeholder="please enter phone number" onkeyup="handleChange(event)">
+    <p id="error"></p>
+</body>
+</html>

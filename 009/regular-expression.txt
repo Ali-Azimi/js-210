@@ -1,0 +1,33 @@
+
+
+Excat Maching
+    abcdef
+    bcd
+
+
+Pattern Matching
+    abcdef
+    b.d
+
+
+Regular Expression (regex)
+    find
+    find and replace
+    validation
+    search
+
+
+989[0-9]{9}
+    989121001010
+
+[0-9]{3}-[\d]{6}-[\d]
+    123-456789-0
+
+MFTID-[0-9]{6}-(S|T)
+    MFTID-123456-T
+
+
+[a-z0-9_.]{3,}@[a-z0-9-]{1,}.[a-z]{2,}
+    sana@samin.ir
+
+
