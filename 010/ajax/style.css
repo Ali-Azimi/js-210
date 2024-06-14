@@ -1,0 +1,16 @@
+
+
+
+body {
+    width: 80%;
+    margin: 3rem auto;
+}
+
+
+
+.post {
+    background-color: #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid;
+}

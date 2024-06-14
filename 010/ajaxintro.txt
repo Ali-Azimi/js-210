@@ -1,0 +1,19 @@
+
+
+AJAX
+
+Asyncorousne Javascript and XML
+    API
+        HTTP REQUEST
+            Method
+                GET
+                POST
+                PUT
+                PATCH
+                DELETE
+
+
+            URL
+                https://harchi.com/api/...
+
+

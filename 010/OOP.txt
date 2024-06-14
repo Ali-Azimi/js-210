@@ -1,0 +1,12 @@
+
+
+
+OOP
+    APIE
+        abstraction
+        polyphorism
+        inheritance
+        encapsulation
+
+Class
+Object
