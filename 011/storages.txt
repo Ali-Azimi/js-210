@@ -1,0 +1,13 @@
+
+
+
+Browser
+    Storage
+       localStorage
+       sessionStorage 
+
+
+
+       http
+        stateLess
+        stateful 

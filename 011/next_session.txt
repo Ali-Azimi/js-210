@@ -1,0 +1,26 @@
+
+
+
+
+- alogrithm
+    travel sales man problem
+
+- ['hi', 212, [true, 'sana', [100, 50], 'harchi']]
+    => ['hi', 212, true, 'sana', 100, 50,'harchi']
+
+
+- postman 
+    10 min
+
+- handle scroll up
+
+- persist basket
+
+
+
+=> async programming (callback vs promise)  
+    => fetch
+
+    tools, library
+    career path
+    

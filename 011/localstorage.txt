@@ -1,0 +1,8 @@
+
+
+
+localstorage
+    getItem()
+    setItem()
+    removeItem()
+    ...

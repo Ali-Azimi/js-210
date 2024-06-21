@@ -1,0 +1,9 @@
+
+
+
+HTTP STATUS CODES
+    1xx     => informational => 101 switching protocol
+    2xx     => 200 ok , 201 created , 206 partial download ...
+    3xx     => 301 redirect, 304 found
+    4xx     => 400 bad request, 404 not found, 403 access deniend, 405 method not allowed
+    5xx     => 500 server erro, 503 service unavvailable
